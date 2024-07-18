@@ -1,0 +1,9 @@
+The Montserrat family of fonts are licensed under the Open Font License (OFL) and have been included or used in this project.
+Designer Credits:
+- Julieta Ulanovsky
+- Sol Matas
+- Juan Pablo del Peral
+- Jacques Le Bailly
+
+They are available at the following link:
+https://fonts.google.com/specimen/Montserrat
